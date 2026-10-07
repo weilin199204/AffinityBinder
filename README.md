@@ -1,5 +1,9 @@
 # AffinityBinder
 AffinityBinder模型基于ProteinMPNN建立。
+模型连接：
+λ=0.001: https://drive.google.com/file/d/15Bi2ZdeO1Jdfu7vDyVccUmchi1-7Ccth/view?usp=sharing
+λ=0.002:https://drive.google.com/file/d/1nkeh8u7oHIvbl1bdEYOh7wtcPk3825sW/view?usp=sharing
+
 # ProteinMPNN
 ![ProteinMPNN](https://docs.google.com/drawings/d/e/2PACX-1vTtnMBDOq8TpHIctUfGN8Vl32x5ISNcPKlxjcQJF2q70PlaH2uFlj2Ac4s3khnZqG1YxppdMr0iTyk-/pub?w=889&h=358)
 Read [ProteinMPNN paper](https://www.biorxiv.org/content/10.1101/2022.06.03.494563v1).
